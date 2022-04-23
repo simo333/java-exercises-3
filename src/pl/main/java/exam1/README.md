@@ -81,7 +81,7 @@ zapisze je do pliku `exam.txt`, każde imię razem z oceną w nowej lini oddziel
     
  ```
  Podaj login:
- arek-jozwiak-coderslab
+ name-surname
  Podaj ilość punktów:
  11
  Podaj login:
@@ -92,7 +92,7 @@ zapisze je do pliku `exam.txt`, każde imię razem z oceną w nowej lini oddziel
     
  Przykład wynikowego pliku (struktura musi być dokładnie taka):
  ```
- arek-jozwiak-coderslab 11
+ name-surname-11
  pawel321a 20
  ```
 
